@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ArchiveTeam (Warrior) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://archiveteam.org/
+ArchiveTeam (Warrior) is a loose collective of rogue archivists, programmers, writers, and loudmouths dedicated to saving digital heritage since 2009. The organization runs the archiveteam.org wiki as an information depot for archiving projects, providing tools, advice, and a hub for preserving websites and data at risk of loss.
+
+**Areas:** Company · Archiving · OpenSource · DigitalPreservation · Community
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://archiveteam.org/)
+- [Documentation](https://wiki.archiveteam.org/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/archiveteam/](https://apis.io/providers/archiveteam/).
